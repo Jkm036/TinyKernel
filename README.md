@@ -15,16 +15,6 @@ I am following a tuturial authored by Daneil McCarthy. You can access then same 
 </div>
 
 
-
-<img src="file:///home/joshk/Pictures/Screenshots/Screenshot%20from%202024-01-26%2019-31-37.png" width="250" />
-
-
-<img src= "https://github.com/Jkm036/FarmerLife/assets/93635097/feb64fb9-de06-4e82-bf4e-f96dff368b47" width= "350"/>
-
-<img src= "https://github.com/Jkm036/FarmerLife/assets/93635097/71bcd95f-e090-4698-a5ef-fccc4f4809c6" width = "350"/>
-
-
-
 # Topics discussed 
 1. x86 Assembly- Real Mode, Protected Mode, segmentation memory model
 2. Bootloading and the BIOS
