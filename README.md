@@ -15,8 +15,9 @@ I am following a tuturial authored by Daneil McCarthy. You can access then same 
 </div>
 
 
-<img src="https://github.com/Jkm036/FarmerLife/assets/93635097/a561603c-e0a5-4020-b935-8223de978650" width="250" />
-file:///home/joshk/Pictures/Screenshots/Screenshot%20from%202024-01-26%2019-31-37.png
+
+<img src="file:///home/joshk/Pictures/Screenshots/Screenshot%20from%202024-01-26%2019-31-37.png" width="250" />
+
 
 <img src= "https://github.com/Jkm036/FarmerLife/assets/93635097/feb64fb9-de06-4e82-bf4e-f96dff368b47" width= "350"/>
 
