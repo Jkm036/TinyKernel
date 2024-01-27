@@ -1,6 +1,6 @@
 # TinyKernel 
-This is a passion project that I am tryign to find time for. This ismy first attempt at kernel developement to any extent and it's something that I'm doing because I <br>
-because of my passiont for lower level learning. I plan to update the read me as a progress throughtout the project and document what I've learned and the different tools <br> used during my journey.
+This is a passion project that I am trying to find time for. This is my first attempt at kernel developement to any extent and it's something that I'm doing
+because of my passion for lower level learning. I plan to update the readme as I progress throughout the project and document what I've learned and the different tools used during my journey.
 I am following a tuturial authored by Daneil McCarthy. You can access then same tutorial on udemy at: https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/learn/lecture/23972412#overview <br>
 
 
@@ -16,6 +16,7 @@ I am following a tuturial authored by Daneil McCarthy. You can access then same 
 
 
 <img src="https://github.com/Jkm036/FarmerLife/assets/93635097/a561603c-e0a5-4020-b935-8223de978650" width="250" />
+file:///home/joshk/Pictures/Screenshots/Screenshot%20from%202024-01-26%2019-31-37.png
 
 <img src= "https://github.com/Jkm036/FarmerLife/assets/93635097/feb64fb9-de06-4e82-bf4e-f96dff368b47" width= "350"/>
 
